@@ -4,14 +4,10 @@
 
 ---
 
-## 📋 Generales del Estudiante
-
-| Campo | Información |
-|-------|-------------|
-| **Diego Hernandez Rodriguez** | [Tu nombre completo] |
-| **C311** | [Tu grupo] |
-| **Simulación** | Simulación de Eventos Discretos |
-| **18 de Mayo, 2026** | 21 de noviembre |
+**Diego Hernandez Rodriguez** 
+**C311** 
+**Simulación** 
+**18 de Mayo, 2026** 
 
 ---
 
