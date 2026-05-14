@@ -6,8 +6,6 @@
 
 - **Diego Hernandez Rodriguez** 
 - **C311** 
-- **Simulación** 
-- **18 de Mayo, 2026** 
 
 ---
 
